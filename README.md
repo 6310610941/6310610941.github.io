@@ -4,4 +4,4 @@
 
 #### 6310610941
 
-!("C:\Users\USER\Downloads\picc.jpg")
+!("https://github.com/6310610941/6310610941.github.io/blob/main/picc.jpg")
