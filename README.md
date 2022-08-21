@@ -4,4 +4,4 @@
 
 #### 6310610941
 
-!("https://github.com/6310610941/6310610941.github.io/blob/main/picc.jpg")
+![My Image](images/picc.png)
