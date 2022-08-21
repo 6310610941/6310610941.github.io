@@ -4,4 +4,4 @@
 
 #### 6310610941
 
-![My Image](images/picc.png)
+![My Image](picc.png)
