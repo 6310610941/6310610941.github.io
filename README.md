@@ -8,7 +8,7 @@
 <br> **Date of Birth** : 14/09/2001 <br/>
 <br> **Faculty** : Engineering **Department** : Electrical and Computer Engineering <br/>
 <br> **Phone number** : 090-992-2199 <br/>
-<br> **email** : <br/>
+<br> **Email** : <br/>
  1. chanathinad.phi@dome.tu.ac.th
  2. 6310610941@student.tu.ac.th
 
