@@ -4,7 +4,7 @@
 
 <br> **Nickname** : Net <br/>
 
-<br> **Student** : 6310610941 <br/>
+<br> **Student ID** : 6310610941 <br/>
 <br> **Faculty** : Engineering **Department** : Electrical and. Computer Engineering <br/>
 <br> **Phone number** : 0909922199 <br/>
 <br> **email** : <br/>
