@@ -1,6 +1,7 @@
 # 6310610941.github.io
 
-#### ***Personal Information***
+## ***Personal Information***
+
 <br> **Name** : Chanathinad Phispratuang <br/>
 <br> **Nickname** : Net <br/>
 <br> **Student ID** : 6310610941 <br/>
