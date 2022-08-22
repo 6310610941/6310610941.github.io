@@ -4,4 +4,4 @@
 
 #### Student : **6310610941**
 
-![My Image](image/picc.png)
+![My Image](https://github.com/6310610941/6310610941.github.io/blob/main/image/picc.jpg)
