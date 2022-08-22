@@ -1,7 +1,7 @@
 # 6310610941.github.io
 
-#### My name is ***Chanathinad Phispratuang***
+#### Name : ***Chanathinad Phispratuang***
 
-#### 6310610941
+#### Student : **6310610941**
 
 ![My Image](image/picc.png)
