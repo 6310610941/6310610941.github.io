@@ -14,4 +14,4 @@
 
 
 
-![Chanathinad](https://drive.google.com/file/d/1D0MWhU_5vMB0ZkRlIrhe338Phwju-jxo/view?usp=sharing)
+![Chanathinad](https://github.com/6310610941/6310610941.github.io/blob/main/image/picc.jpg)
